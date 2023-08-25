@@ -1,0 +1,6 @@
+Integer: Age = 25, quantity = 10
+Float: Temperature = 98.6, Pi = 3.1415
+List: Fruits = [apple, banana], numbers [1,2]
+String: name = "John", message = "Hello, world!"
+Tuple: coordinates = (10, 20), person_info = ('Alice', 30, 'New York')
+Set: colors = {'red', 'green'}, prime numbers = {2,3,5,7,}
